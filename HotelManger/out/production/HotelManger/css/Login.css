@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body {
+    background-size:cover;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+.row{
+    width:600px;
+    margin:50px auto;
+    outline: aqua solid 5px;
+}
+
+.box{
+    width:400px;
+    margin:50px auto;
+}
+
+.head{
+    margin-top: 10px;
+    text-align: center;
+    border-bottom: aqua solid 5px;
+}
+
+#button{
+    padding-bottom: 50px;
+}
+
